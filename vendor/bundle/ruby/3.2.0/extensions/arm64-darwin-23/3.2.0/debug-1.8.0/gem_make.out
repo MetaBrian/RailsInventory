@@ -1,0 +1,20 @@
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+/Users/owner/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-rehih4 sitelibdir\=./.gem.20231211-9956-rehih4 clean
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-rehih4 sitelibdir\=./.gem.20231211-9956-rehih4
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-rehih4 sitelibdir\=./.gem.20231211-9956-rehih4 install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 debug.bundle ./.gem.20231211-9956-rehih4/debug
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-rehih4 sitelibdir\=./.gem.20231211-9956-rehih4 clean

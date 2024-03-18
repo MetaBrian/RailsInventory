@@ -1,0 +1,19 @@
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+/Users/owner/.rvm/rubies/ruby-3.2.2/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-jduxjd sitelibdir\=./.gem.20231211-9956-jduxjd clean
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-jduxjd sitelibdir\=./.gem.20231211-9956-jduxjd
+compiling cparse.c
+linking shared-object racc/cparse.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-jduxjd sitelibdir\=./.gem.20231211-9956-jduxjd install
+/opt/homebrew/opt/coreutils/bin/ginstall -c -m 0755 cparse.bundle ./.gem.20231211-9956-jduxjd/racc
+
+current directory: /Users/owner/RailsAssessment/Items/vendor/bundle/ruby/3.2.0/gems/racc-1.7.3/ext/racc/cparse
+make DESTDIR\= sitearchdir\=./.gem.20231211-9956-jduxjd sitelibdir\=./.gem.20231211-9956-jduxjd clean
